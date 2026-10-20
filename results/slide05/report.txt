@@ -1,0 +1,20 @@
+Spectrum: Data.pptx slide 5 (zoom of slide 4 spectrum)
+Input: spectra/slide05.txt
+Precursor m/z: 210.00000 ([M]+)
+Mass tolerance: 50 ppm
+Allowed elements: C, H, N, O, S, P, Cl, Br
+Required elements: none
+Formula suggestions (not unique structure identifications):
+1. C5H11N2O2Br  exact mass 210.00039  +1.86 ppm  score -0.761  fragment MSE 0.980  matched intensity 4.0%
+2. C10H2N4S  exact mass 210.00002  +0.08 ppm  score -0.842  fragment MSE 0.982  matched intensity 4.0%
+3. C12H3N2Cl  exact mass 209.99848  -7.26 ppm  score -0.863  fragment MSE 0.992  matched intensity 4.0%
+4. C10H11Br  exact mass 210.00441  +21.01 ppm  score -0.866  fragment MSE 0.965  matched intensity 4.0%
+5. C11H8Cl2  exact mass 210.00031  +1.46 ppm  score -0.874  fragment MSE 0.981  matched intensity 4.0%
+6. C11H3N2OP  exact mass 209.99830  -8.10 ppm  score -0.875  fragment MSE 0.993  matched intensity 4.0%
+7. C10H8OPCl  exact mass 210.00013  +0.62 ppm  score -0.879  fragment MSE 0.982  matched intensity 4.0%
+8. C9H8O2P2  exact mass 209.99995  -0.22 ppm  score -0.885  fragment MSE 0.983  matched intensity 4.0%
+9. C9H7N2SCl  exact mass 210.00185  +8.80 ppm  score -0.907  fragment MSE 0.973  matched intensity 4.0%
+10. C8H7N2OSP  exact mass 210.00167  +7.96 ppm  score -0.907  fragment MSE 0.974  matched intensity 4.0%
+Reference structure from the presentation (not inferred from MS alone):
+Provided SMILES: BrCCC=Cc1ccccc1
+Canonical SMILES: BrCCC=Cc1ccccc1

@@ -1,0 +1,16 @@
+Spectrum: Data.pptx slide 9, RT 7.55 min
+Input: spectra/slide09.txt
+Precursor m/z: 133.08000 ([M+proton]+)
+Mass tolerance: 50 ppm
+Allowed elements: C, H, N, O, S, P, Cl, Br
+Required elements: none
+Formula suggestions (not unique structure identifications):
+1. C5H12N2S  exact mass 132.07212  -4.57 ppm  score -0.687  fragment MSE 0.716  matched intensity 31.4%
+2. C7H13Cl  exact mass 132.07058  -16.24 ppm  score -0.793  fragment MSE 0.730  matched intensity 27.5%
+3. C6H13OP  exact mass 132.07040  -17.58 ppm  score -0.815  fragment MSE 0.729  matched intensity 27.5%
+4. C8H8N2  exact mass 132.06875  -30.10 ppm  score -1.010  fragment MSE 0.737  matched intensity 31.4%
+5. C2H8N6O  exact mass 132.07596  +24.50 ppm  score -1.182  fragment MSE 0.891  matched intensity 27.5%
+6. C6H12O3  exact mass 132.07864  +44.83 ppm  score -1.766  fragment MSE 1.000  matched intensity 0.0%
+Reference structure from the presentation (not inferred from MS alone):
+Provided SMILES: Cc1nc(C)cc(C#N)c1
+Canonical SMILES: Cc1cc(C#N)cc(C)n1

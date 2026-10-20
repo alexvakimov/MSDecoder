@@ -1,0 +1,15 @@
+Spectrum: Data.pptx slide 7 (zoom of slide 6 spectrum)
+Input: spectra/slide07.txt
+Precursor m/z: 215.18000 ([M+proton]+)
+Mass tolerance: 50 ppm
+Allowed elements: C, H, N, O, S, P, Cl, Br
+Required elements: none
+Formula suggestions (not unique structure identifications):
+1. C16H22  exact mass 214.17215  -2.67 ppm  score -0.169  fragment MSE 0.291  matched intensity 81.0%
+2. C11H22N2O2  exact mass 214.16813  -21.46 ppm  score -0.262  fragment MSE 0.148  matched intensity 90.5%
+3. C13H26S  exact mass 214.17552  +13.07 ppm  score -0.544  fragment MSE 0.548  matched intensity 81.0%
+4. C7H18N8  exact mass 214.16544  -34.00 ppm  score -0.590  fragment MSE 0.186  matched intensity 90.5%
+5. C10H22N4O  exact mass 214.17936  +30.99 ppm  score -1.307  fragment MSE 0.988  matched intensity 1.6%
+Reference structure from the presentation (not inferred from MS alone):
+Provided SMILES: CC(C)=CCCNNC(=O)OC(C)(C)C
+Canonical SMILES: CC(C)=CCCNNC(=O)OC(C)(C)C

@@ -1,0 +1,20 @@
+Spectrum: Data.pptx slide 11, RT 10.86 min
+Input: spectra/slide11.txt
+Precursor m/z: 203.12000 ([M+proton]+)
+Mass tolerance: 50 ppm
+Allowed elements: C, H, N, O, S, P, Cl, Br
+Required elements: none
+Formula suggestions (not unique structure identifications):
+1. C12H14N2O  exact mass 202.11061  -10.44 ppm  score -0.119  fragment MSE 0.248  matched intensity 81.2%
+2. C9H18N2OS  exact mass 202.11398  +6.24 ppm  score -0.163  fragment MSE 0.267  matched intensity 81.2%
+3. C11H19OCl  exact mass 202.11244  -1.39 ppm  score -0.199  fragment MSE 0.397  matched intensity 63.9%
+4. C10H19O2P  exact mass 202.11227  -2.26 ppm  score -0.285  fragment MSE 0.396  matched intensity 63.9%
+5. C6H14N6O2  exact mass 202.11782  +25.23 ppm  score -0.596  fragment MSE 0.434  matched intensity 81.2%
+6. C7H14N4O3  exact mass 202.10659  -30.35 ppm  score -0.731  fragment MSE 0.480  matched intensity 81.2%
+7. C6H15N6P  exact mass 202.10958  -15.55 ppm  score -0.785  fragment MSE 0.753  matched intensity 26.0%
+8. C10H18O4  exact mass 202.12051  +38.52 ppm  score -1.121  fragment MSE 0.641  matched intensity 68.8%
+9. C11H14N4  exact mass 202.12185  +45.14 ppm  score -1.455  fragment MSE 0.759  matched intensity 25.5%
+10. C3H10N10O  exact mass 202.10390  -43.63 ppm  score -1.563  fragment MSE 0.766  matched intensity 32.2%
+Reference structure from the presentation (not inferred from MS alone):
+Provided SMILES: Cc1cc(C#N)c(C2CCCO2)c(C)n1
+Canonical SMILES: Cc1cc(C#N)c(C2CCCO2)c(C)n1

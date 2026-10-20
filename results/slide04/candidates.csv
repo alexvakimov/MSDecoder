@@ -1,0 +1,11 @@
+rank,formula,neutral_exact_mass,ppm_error,score,fragment_mse,matched_intensity_fraction,explained_peaks
+1,C10H11Br,210.004413,21.014,-0.438,0.507945,0.721893,131.09:C10H11(-0.60 tolerance units); 117.07:C9H9(+0.07 tolerance units); 209.00:C10H10Br(-0.33 tolerance units); 129.07:C10H9(+0.07 tolerance units); 197.00:C9H10Br(-0.35 tolerance units); 168.96:C7H6Br(+0.63 tolerance units); 115.05:C9H7(+0.83 tolerance units)
+2,C7H15SBr,210.007784,37.068,-0.680,0.324853,0.710059,131.09:C7H15S(-0.08 tolerance units); 209.00:C7H14SBr(-0.00 tolerance units); 117.07:C6H13S(+0.65 tolerance units); 197.00:C6H14SBr(-0.00 tolerance units); 129.07:C7H13S(+0.59 tolerance units); 168.96:C7H6Br(+0.63 tolerance units)
+3,C5H11N2O2Br,210.000390,1.858,-0.725,0.915405,0.130178,117.07:C4H9N2O2(-0.61 tolerance units); 209.00:C5H10N2O2Br(-0.71 tolerance units); 129.07:C5H9N2O2(-0.56 tolerance units); 115.05:C4H7N2O2(+0.13 tolerance units); 168.96:C2H6N2O2Br(+0.15 tolerance units); 197.00:C4H10N2O2Br(-0.75 tolerance units)
+4,C10H2N4S,210.000017,0.082,-0.843,0.982532,0.041420,209.00:C10HN4S(-0.75 tolerance units); 197.00:C9HN4S(-0.79 tolerance units)
+5,C11H8Cl2,210.000306,1.455,-0.859,0.965512,0.065089,209.00:C11H7Cl2(-0.72 tolerance units); 168.96:C8H3Cl2(+0.14 tolerance units); 197.00:C10H7Cl2(-0.76 tolerance units); 115.05:C9H7(+0.83 tolerance units)
+6,C12H3N2Cl,209.998476,-7.258,-0.864,0.992923,0.041420,209.00:C12H2N2Cl(-0.89 tolerance units); 197.00:C11H2N2Cl(-0.95 tolerance units)
+7,C10H8OPCl,210.000130,0.617,-0.864,0.966501,0.065089,209.00:C10H7OPCl(-0.74 tolerance units); 168.96:C7H3OPCl(+0.12 tolerance units); 197.00:C9H7OPCl(-0.78 tolerance units); 115.05:C9H7(+0.83 tolerance units)
+8,C9H8O2P2,209.999953,-0.221,-0.870,0.967524,0.065089,209.00:C9H7O2P2(-0.75 tolerance units); 168.96:C6H3O2P2(+0.10 tolerance units); 197.00:C8H7O2P2(-0.80 tolerance units); 115.05:C9H7(+0.83 tolerance units)
+9,C11H3N2OP,209.998300,-8.097,-0.875,0.994228,0.041420,209.00:C11H2N2OP(-0.91 tolerance units); 197.00:C10H2N2OP(-0.97 tolerance units)
+10,C9H7N2SCl,210.001847,8.796,-0.892,0.958335,0.065089,209.00:C9H6N2SCl(-0.57 tolerance units); 168.96:C6H2N2SCl(+0.32 tolerance units); 197.00:C8H6N2SCl(-0.61 tolerance units); 115.05:C9H7(+0.83 tolerance units)

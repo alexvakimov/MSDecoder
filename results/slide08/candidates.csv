@@ -1,0 +1,3 @@
+rank,formula,neutral_exact_mass,ppm_error,score,fragment_mse,matched_intensity_fraction,explained_peaks
+1,C9H12,120.093900,9.800,-0.429,0.465561,0.717949,105.07:C8H8(-0.02 tolerance units); 119.09:C9H10(-0.75 tolerance units)
+2,C4H12N2O2,120.089878,-23.698,-1.030,0.825105,0.444444,105.07:C3H8N2O2(-0.79 tolerance units); 106.07:C3H9N2O2(+0.69 tolerance units)

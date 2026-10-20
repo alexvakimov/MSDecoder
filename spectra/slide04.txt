@@ -1,0 +1,39 @@
+# title: Data.pptx slide 4
+# source_slide: 4
+# scan_range_mz: 100-400
+# precursor_mz: 210.00
+# adduct: none
+# tolerance_ppm: 50
+# data_origin: Manually transcribed labeled peaks from the embedded spectrum image; relative intensities visually estimated.
+mz intensity
+115.05 2
+117.07 8
+129.07 3
+131.09 100
+132.09 13
+133.09 2
+159.12 2
+168.96 2
+187.14 3
+197.00 2
+209.00 5
+210.00 14
+211.00 2
+212.00 15
+213.00 2
+214.01 8
+214.17 2
+217.16 1
+225.00 2
+239.04 1
+251.04 1
+265.48 1
+276.97 1
+297.36 1
+309.76 1
+328.03 1
+337.95 1
+352.12 1
+360.23 1
+380.20 1
+387.30 1

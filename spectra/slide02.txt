@@ -1,0 +1,38 @@
+# title: Data.pptx slide 2
+# source_slide: 2
+# scan_range_mz: 100-400
+# precursor_mz: 257.16
+# adduct: proton
+# tolerance_ppm: 50
+# data_origin: Manually transcribed labeled peaks from the embedded spectrum image; relative intensities visually estimated.
+mz intensity
+113.10 2
+130.07 2
+145.08 2
+157.08 2
+169.08 2
+183.09 8
+185.11 24
+186.11 6
+197.11 3
+223.12 4
+225.14 85
+226.14 10
+228.13 5
+241.13 8
+253.17 18
+256.16 38
+257.16 100
+258.17 6
+271.18 3
+285.20 20
+286.20 7
+298.20 2
+314.77 1
+327.21 1
+338.43 1
+349.10 1
+359.74 1
+368.18 1
+387.02 1
+396.72 1

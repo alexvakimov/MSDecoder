@@ -1,0 +1,12 @@
+Spectrum: Data.pptx slide 8, RT 6.10 min
+Input: spectra/slide08.txt
+Precursor m/z: 121.10000 ([M+proton]+)
+Mass tolerance: 50 ppm
+Allowed elements: C, H, N, O, S, P, Cl, Br
+Required elements: none
+Formula suggestions (not unique structure identifications):
+1. C9H12  exact mass 120.09390  +9.80 ppm  score -0.429  fragment MSE 0.466  matched intensity 71.8%
+2. C4H12N2O2  exact mass 120.08988  -23.70 ppm  score -1.030  fragment MSE 0.825  matched intensity 44.4%
+Reference structure from the presentation (not inferred from MS alone):
+Provided SMILES: Cc1cc(C)cc(C)c1
+Canonical SMILES: Cc1cc(C)cc(C)c1

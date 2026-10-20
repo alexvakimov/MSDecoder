@@ -1,0 +1,24 @@
+# title: Data.pptx slide 5 (zoom of slide 4 spectrum)
+# source_slide: 5
+# scan_range_mz: 205.9-219
+# precursor_mz: 210.00
+# adduct: none
+# tolerance_ppm: 50
+# data_origin: Manually transcribed labeled peaks from the embedded zoom image; relative intensities visually estimated.
+mz intensity
+205.91 2
+209.00 5
+209.95 4
+210.00 100
+210.18 10
+210.96 5
+211.01 77
+211.95 4
+212.00 100
+212.06 5
+213.01 73
+213.07 4
+214.01 8
+214.17 3
+215.02 2
+217.16 1

@@ -1,0 +1,20 @@
+Spectrum: Data.pptx slide 3
+Input: spectra/slide03.txt
+Precursor m/z: 259.04000 ([M+proton]+)
+Mass tolerance: 50 ppm
+Allowed elements: C, H, N, O, S, P, Cl, Br
+Required elements: none
+Formula suggestions (not unique structure identifications):
+1. C10H15N2OBr  exact mass 258.03678  +15.70 ppm  score -0.136  fragment MSE 0.303  matched intensity 87.4%
+2. C5H15N4O3Br  exact mass 258.03275  +0.11 ppm  score -0.160  fragment MSE 0.331  matched intensity 87.4%
+3. C8H11N4O2SP  exact mass 258.03403  +5.08 ppm  score -0.177  fragment MSE 0.278  matched intensity 86.7%
+4. C7H16N2O2SPCl  exact mass 258.03586  +12.17 ppm  score -0.186  fragment MSE 0.195  matched intensity 87.9%
+5. C9H11N4OSCl  exact mass 258.03421  +5.76 ppm  score -0.198  fragment MSE 0.301  matched intensity 83.6%
+6. C8H16N2OSCl2  exact mass 258.03604  +12.85 ppm  score -0.211  fragment MSE 0.218  matched intensity 87.4%
+7. C6H14N2O5S2  exact mass 258.03441  +6.55 ppm  score -0.221  fragment MSE 0.227  matched intensity 87.4%
+8. C7H10N6OS2  exact mass 258.03575  +11.73 ppm  score -0.233  fragment MSE 0.264  matched intensity 84.9%
+9. C10H12N2O2PCl  exact mass 258.03249  -0.90 ppm  score -0.240  fragment MSE 0.361  matched intensity 87.4%
+10. C9H12N2O3P2  exact mass 258.03232  -1.58 ppm  score -0.245  fragment MSE 0.360  matched intensity 87.4%
+Reference structure from the presentation (not inferred from MS alone):
+Provided SMILES: COC1CCn2ncc(Br)c2C1(C)C
+Canonical SMILES: COC1CCn2ncc(Br)c2C1(C)C

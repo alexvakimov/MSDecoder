@@ -1,0 +1,11 @@
+spectrum_file,smiles
+slide02.txt,COC1CCn2ncc(-c3ccccc3)c2C1(C)C
+slide03.txt,COC1CCn2ncc(Br)c2C1(C)C
+slide04.txt,BrCCC=Cc1ccccc1
+slide05.txt,BrCCC=Cc1ccccc1
+slide06.txt,CC(C)=CCCNNC(=O)OC(C)(C)C
+slide07.txt,CC(C)=CCCNNC(=O)OC(C)(C)C
+slide08.txt,Cc1cc(C)cc(C)c1
+slide09.txt,Cc1nc(C)cc(C#N)c1
+slide10.txt,CC(C)=CCCn1cc(Br)cn1
+slide11.txt,Cc1cc(C#N)c(C2CCCO2)c(C)n1

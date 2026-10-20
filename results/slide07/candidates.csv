@@ -1,0 +1,6 @@
+rank,formula,neutral_exact_mass,ppm_error,score,fragment_mse,matched_intensity_fraction,explained_peaks
+1,C16H22,214.172151,-2.675,-0.169,0.290653,0.809524,213.16:C16H20(+0.35 tolerance units); 211.15:C16H18(-0.18 tolerance units)
+2,C11H22N2O2,214.168128,-21.457,-0.262,0.148326,0.904762,213.16:C11H20N2O2(-0.02 tolerance units); 214.16:C11H21N2O2(+0.71 tolerance units); 211.15:C11H18N2O2(-0.56 tolerance units)
+3,C13H26S,214.175522,13.066,-0.544,0.547820,0.809524,213.16:C13H24S(+0.67 tolerance units); 211.15:C13H22S(+0.14 tolerance units)
+4,C7H18N8,214.165443,-33.996,-0.590,0.185640,0.904762,213.16:C7H16N8(-0.28 tolerance units); 214.16:C7H17N8(+0.46 tolerance units); 211.15:C7H14N8(-0.81 tolerance units)
+5,C10H22N4O,214.179361,30.993,-1.307,0.988184,0.015873,211.15:C10H18N4O(+0.51 tolerance units)
